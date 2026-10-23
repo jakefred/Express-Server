@@ -2,6 +2,8 @@
 
 A Node.js and Express web app for exploring 30 San Diego destinations. Browse location descriptions, find each spot on an interactive map, and open its coordinates in Google Maps.
 
+This is a Creating Coding Careers Apprenticeship project used to learn how to set up an express server. I realized while working on it that I could easily use this server to run my San Diego Top Spots project that I had built earlier while learning HTML CSS and vanill JavaScript. I combined the projects and it works very well!
+
 The project demonstrates how an Express server, a JSON endpoint, and a JavaScript frontend work together to turn a local dataset into an interactive browser experience.
 
 ## Features
